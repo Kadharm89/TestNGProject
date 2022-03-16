@@ -69,7 +69,9 @@ public static WebDriver driver;
 		
 		return title;		
 
+	
 	}
+	
 	
 	// 5. get Text
 	
