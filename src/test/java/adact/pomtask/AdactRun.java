@@ -91,7 +91,7 @@ CancelHotelPage cancelHotel = new CancelHotelPage();
 cancelHotel.CancelHotel();
 
 
-System.out.println("Test purpose");
+System.out.println("Test purpose2");
 
 }
 
